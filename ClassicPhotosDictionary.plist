@@ -8,9 +8,7 @@
 	<string>https://github.com/mrustaa/GifPresentations/blob/master/AppIcon/Swift.png</string>
 	<key>Cliff</key>
 	<string>https://raw.githubusercontent.com/mrustaa/GifPresentations/master/AppIcon/Swift.png</string>
-	<key>ContainerControllerSwift</key>
-	<string>https://github.com/mrustaa/GifPresentations/blob/master/ContainerControllerSwift/screenLandscape.png</string>
-	<key>figmaConvertLogo</key>
+	<key>Figma Convert Logo</key>
 	<string>https://github.com/mrustaa/GifPresentations/blob/master/FigmaConvert/figmaConvertLogo2.png</string>
 	<key>Japanese Garden</key>
 	<string>https://github.com/mrustaa/GifPresentations/blob/master/ButtonClickStyle/XcodeCreateXib40.png</string>
