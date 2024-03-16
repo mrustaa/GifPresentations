@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GreenTea Leaf</key>
+	<string>https://github.com/mrustaa/GifPresentations/blob/master/AppIcon/PlusBank.png</string>
+	<key>Maya</key>
+	<string>https://github.com/mrustaa/GifPresentations/blob/master/AppIcon/Swift.png</string>
+	<key>Cliff</key>
+	<string>https://raw.githubusercontent.com/mrustaa/GifPresentations/master/AppIcon/Swift.png</string>
+	<key>ContainerControllerSwift</key>
+	<string>https://github.com/mrustaa/GifPresentations/blob/master/ContainerControllerSwift/screenLandscape.png</string>
+	<key>figmaConvertLogo</key>
+	<string>https://github.com/mrustaa/GifPresentations/blob/master/FigmaConvert/figmaConvertLogo2.png</string>
+	<key>Japanese Garden</key>
+	<string>https://github.com/mrustaa/GifPresentations/blob/master/ButtonClickStyle/XcodeCreateXib40.png</string>
+	<key>Monkey</key>
+	<string>NO URL</string>
+	<key>Flying Taxi</key>
+	<string>NO URL</string>
+	<key>Cute Monkey</key>
+	<string>NO URL</string>
+	<key>Chocolate House</key>
+	<string>NO URL</string>
+</dict>
+</plist>
